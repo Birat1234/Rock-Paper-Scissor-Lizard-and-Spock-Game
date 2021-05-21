@@ -15,3 +15,11 @@ Rock paper scissors Lizard and Spock is a hand game usually played between two p
 <li> If both players choose the same shape, the game is tied and is usually immediately replayed to break the tie. </li>
 </ul>
 
+### Version
+Latest ✔ Last Update @done (May 20 2021, 10:15)
+
+### Built With
+HTML5, CSS3, JavaScript
+
+### Upcoming Versioning
+Multi-player options
