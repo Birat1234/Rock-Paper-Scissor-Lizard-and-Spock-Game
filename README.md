@@ -21,5 +21,5 @@ Latest ✔ Last Update @done (May 20 2021, 10:15)
 ### Built With
 HTML5, CSS3, JavaScript
 
-### Upcoming Versioning
+### Upcoming Versions
 Multi-player options
