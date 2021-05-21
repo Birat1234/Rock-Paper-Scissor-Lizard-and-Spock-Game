@@ -3,6 +3,9 @@
 ### Description
 Rock paper scissors Lizard and Spock is a hand game usually played between two people, in which each player simultaneously forms one of five shapes with an outstretched hand. It is an updated version of classic Rock Paper Scissor Game which used to have only three shapes. The type of game originated in China and spread with increased contact with East Asia, while developing different variants in signs over time.</br>
 
+![rockpaperscissorslizardspock_newthumb](https://user-images.githubusercontent.com/26957756/119156774-2ed9dd00-ba72-11eb-821f-3ea1ad1aef33.png)
+
+
 <ul>
 <li> A player who decides to play rock will beat another player who has chosen scissors and  lizard, but will lose to one who has played paper and spock</li>
 <li> A player who decides to play paper will beat another player who has chosen rock and spock, but will lose to one who has played lizard and scissors</li>
